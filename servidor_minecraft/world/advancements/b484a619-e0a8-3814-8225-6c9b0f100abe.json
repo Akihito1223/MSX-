@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 21:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-26 04:45:32 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-26 21:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 05:58:54 +0000"
@@ -289,6 +301,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-26 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 21:51:15 +0000"
     },
     "done": true
   },
@@ -741,6 +759,7 @@
       "minecraft:skeleton": "2024-12-26 06:10:46 +0000",
       "minecraft:spider": "2024-12-26 04:47:14 +0000",
       "minecraft:creeper": "2024-12-26 05:35:45 +0000",
+      "minecraft:zombified_piglin": "2024-12-26 21:51:14 +0000",
       "minecraft:stray": "2024-12-26 04:52:10 +0000",
       "minecraft:zombie": "2024-12-26 04:46:58 +0000"
     },
@@ -860,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 21:51:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-26 20:40:48 +0000"
@@ -965,6 +990,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-26 05:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-26 21:36:07 +0000"
     },
     "done": true
   },
@@ -1483,6 +1514,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-26 21:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-26 19:37:51 +0000"
@@ -1684,6 +1721,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-26 19:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-26 21:33:44 +0000"
     },
     "done": true
   },
