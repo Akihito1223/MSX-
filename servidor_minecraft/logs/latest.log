@@ -70,3 +70,12 @@
 [26Dec2024 19:27:06.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <arthur> z
 [26Dec2024 19:27:06.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <arthur> z
 [26Dec2024 19:30:36.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Hot Stuff]
+[26Dec2024 19:45:30.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jesua1223 lost connection: Timed out
+[26Dec2024 19:45:30.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 left the game
+[26Dec2024 19:45:30.989] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 19:45:57.811] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4849d9e4
+[26Dec2024 19:45:57.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jesua1223[/127.133.80.175:46529] logged in with entity id 5184 at (697.2713584892945, 63.0, 1446.9788767179652)
+[26Dec2024 19:45:57.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 joined the game
+[26Dec2024 19:49:57.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <arthur> z
+[26Dec2024 20:01:23.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 has made the advancement [A Seedy Place]
+[26Dec2024 20:03:55.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was slain by Iron Golem
