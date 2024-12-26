@@ -87,3 +87,5 @@
 [26Dec2024 20:26:50.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
 [26Dec2024 20:26:50.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
 [26Dec2024 20:26:50.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
+[26Dec2024 20:40:48.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Diamonds!]
+[26Dec2024 20:45:40.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Jesua1223> 1423/ 1857
