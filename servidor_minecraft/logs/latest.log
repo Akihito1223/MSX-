@@ -99,3 +99,5 @@
 [26Dec2024 21:06:07.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arthur[/127.247.76.169:36747] logged in with entity id 24592 at (1438.7319935132648, 29.0, 1883.6505862878503)
 [26Dec2024 21:06:07.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur joined the game
 [26Dec2024 21:14:59.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was doomed to fall by Skeleton
+[26Dec2024 21:16:00.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was shot by Skeleton
+[26Dec2024 21:17:24.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was shot by Skeleton
