@@ -79,3 +79,11 @@
 [26Dec2024 19:49:57.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <arthur> z
 [26Dec2024 20:01:23.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 has made the advancement [A Seedy Place]
 [26Dec2024 20:03:55.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was slain by Iron Golem
+[26Dec2024 20:15:38.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was shot by Skeleton
+[26Dec2024 20:25:57.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1834} BlockPos{x=1397, y=63, z=1835}
+[26Dec2024 20:26:50.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
+[26Dec2024 20:26:50.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
+[26Dec2024 20:26:50.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
+[26Dec2024 20:26:50.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
+[26Dec2024 20:26:50.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
+[26Dec2024 20:26:50.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1399, y=65, z=1828} BlockPos{x=1398, y=63, z=1827}
