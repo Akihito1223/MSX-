@@ -644,3 +644,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Dec2024 04:51:07.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 has made the advancement [Monster Hunter]
 [26Dec2024 04:52:12.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was shot by Stray
 [26Dec2024 04:53:42.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 fell from a high place
+[26Dec2024 04:55:01.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:55:01.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:57:32.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 was slain by Zombie
+[26Dec2024 05:00:01.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:00:01.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:04:55.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 has made the advancement [Sweet Dreams]
+[26Dec2024 05:05:01.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:05:01.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:10:01.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:10:01.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:12:08.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Sweet Dreams]
+[26Dec2024 05:15:01.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:15:01.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:20:01.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:20:01.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:23:04.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 hit the ground too hard
+[26Dec2024 05:24:25.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur fell from a high place
