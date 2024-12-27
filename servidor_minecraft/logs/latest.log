@@ -1,3 +1,16 @@
 [27Dec2024 00:39:54.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arthur lost connection: Disconnected
 [27Dec2024 00:39:54.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur left the game
 [27Dec2024 00:42:29.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2238, y=67, z=2728} BlockPos{x=2237, y=67, z=2728}
+[27Dec2024 01:33:12.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jesua1223 lost connection: Disconnected
+[27Dec2024 01:33:12.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 left the game
+[27Dec2024 01:36:06.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[27Dec2024 01:36:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Dec2024 01:36:06.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Dec2024 01:36:06.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Dec2024 01:36:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Dec2024 01:36:06.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Dec2024 01:36:06.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Dec2024 01:36:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Dec2024 01:36:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Dec2024 01:36:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Dec2024 01:36:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
