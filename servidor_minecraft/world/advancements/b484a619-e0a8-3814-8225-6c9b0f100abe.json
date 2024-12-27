@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-27 00:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-26 04:46:06 +0000"
@@ -537,6 +543,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-26 19:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-27 00:36:44 +0000"
     },
     "done": true
   },
@@ -1415,6 +1427,7 @@
       "cooked_mutton": "2024-12-26 19:58:16 +0000",
       "cooked_beef": "2024-12-26 19:33:00 +0000",
       "potato": "2024-12-26 06:15:23 +0000",
+      "cooked_cod": "2024-12-27 00:33:41 +0000",
       "bread": "2024-12-26 06:14:45 +0000",
       "rotten_flesh": "2024-12-26 04:51:54 +0000",
       "cooked_chicken": "2024-12-26 23:07:03 +0000",
@@ -2337,6 +2350,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-26 05:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-27 00:36:44 +0000"
     },
     "done": true
   },
