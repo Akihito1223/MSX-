@@ -64,3 +64,15 @@
 [28Dec2024 22:30:56.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: omar[/127.12.14.93:36273] logged in with entity id 52 at (6.5, 68.0, 6.5)
 [28Dec2024 22:30:56.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: omar joined the game
 [28Dec2024 22:34:22.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: omar has made the advancement [Stone Age]
+[28Dec2024 22:35:59.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: omar has made the advancement [Getting an Upgrade]
+[28Dec2024 22:36:14.933] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38bde38c[id=<null>,name=Jesua1223,properties={},legacy=false] (/127.67.90.77:53449) lost connection: Disconnected
+[28Dec2024 22:36:19.820] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@512a53dd
+[28Dec2024 22:36:19.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jesua1223[/127.67.90.77:50213] logged in with entity id 1358 at (1413.854451588781, 66.0, 1856.7305297476964)
+[28Dec2024 22:36:19.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 joined the game
+[28Dec2024 22:44:55.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: omar has made the advancement [Monster Hunter]
+[28Dec2024 22:45:44.493] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2af34a6b
+[28Dec2024 22:45:44.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arthur[/127.6.119.12:42113] logged in with entity id 4826 at (1618.2558694704874, 64.0, 1826.277109192438)
+[28Dec2024 22:45:44.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur joined the game
+[28Dec2024 22:47:34.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was slain by Zombie
+[28Dec2024 22:47:41.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: omar lost connection: Disconnected
+[28Dec2024 22:47:41.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: omar left the game
