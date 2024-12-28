@@ -76,3 +76,6 @@
 [28Dec2024 22:47:34.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was slain by Zombie
 [28Dec2024 22:47:41.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: omar lost connection: Disconnected
 [28Dec2024 22:47:41.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: omar left the game
+[28Dec2024 23:07:02.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [What a Deal!]
+[28Dec2024 23:11:09.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was blown up by Creeper
+[28Dec2024 23:11:38.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Cover Me with Diamonds]
