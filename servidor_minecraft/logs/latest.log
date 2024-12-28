@@ -81,3 +81,12 @@
 [28Dec2024 23:11:38.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Cover Me with Diamonds]
 [28Dec2024 23:26:03.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arthur lost connection: Disconnected
 [28Dec2024 23:26:03.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur left the game
+[28Dec2024 23:43:10.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2232, y=58, z=2730} BlockPos{x=2233, y=59, z=2730}
+[28Dec2024 23:43:13.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2231, y=59, z=2731} BlockPos{x=2232, y=60, z=2731}
+[28Dec2024 23:43:13.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2231, y=59, z=2731} BlockPos{x=2232, y=60, z=2731}
+[28Dec2024 23:43:13.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2231, y=59, z=2731} BlockPos{x=2232, y=60, z=2731}
+[28Dec2024 23:43:17.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2229, y=58, z=2728} BlockPos{x=2228, y=58, z=2728}
+[28Dec2024 23:43:17.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2229, y=58, z=2728} BlockPos{x=2228, y=58, z=2728}
+[28Dec2024 23:43:17.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2230, y=59, z=2727} BlockPos{x=2229, y=59, z=2727}
+[28Dec2024 23:43:19.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2227, y=59, z=2731} BlockPos{x=2228, y=58, z=2731}
+[28Dec2024 23:43:20.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2226, y=60, z=2729} BlockPos{x=2226, y=59, z=2728}
