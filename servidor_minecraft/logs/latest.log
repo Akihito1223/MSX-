@@ -79,3 +79,5 @@
 [28Dec2024 23:07:02.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [What a Deal!]
 [28Dec2024 23:11:09.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur was blown up by Creeper
 [28Dec2024 23:11:38.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Cover Me with Diamonds]
+[28Dec2024 23:26:03.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arthur lost connection: Disconnected
+[28Dec2024 23:26:03.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur left the game

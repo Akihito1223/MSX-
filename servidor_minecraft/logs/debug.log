@@ -821,3 +821,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Dec2024 23:15:31.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 23:20:31.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 23:20:31.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:25:31.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:25:31.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:26:03.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arthur lost connection: Disconnected
+[28Dec2024 23:26:03.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur left the game
+[28Dec2024 23:30:31.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:30:31.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:35:31.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:35:31.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
