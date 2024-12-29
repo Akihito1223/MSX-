@@ -4,3 +4,10 @@
 [29Dec2024 00:41:06.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur joined the game
 [29Dec2024 01:07:44.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Take Aim]
 [29Dec2024 01:08:01.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 has made the advancement [Take Aim]
+[29Dec2024 01:40:05.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Jesua1223> 2733 3948
+[29Dec2024 01:45:54.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jesua1223 lost connection: Disconnected
+[29Dec2024 01:45:54.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 left the game
+[29Dec2024 01:46:12.576] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5695220a[id=<null>,name=Jesua1223,properties={},legacy=false] (/127.67.90.77:53221) lost connection: Disconnected
+[29Dec2024 01:46:25.466] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@113c0d
+[29Dec2024 01:46:25.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jesua1223[/127.67.90.77:34631] logged in with entity id 59629 at (2581.8389071827055, 62.073264324665075, 2829.193163555991)
+[29Dec2024 01:46:25.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 joined the game

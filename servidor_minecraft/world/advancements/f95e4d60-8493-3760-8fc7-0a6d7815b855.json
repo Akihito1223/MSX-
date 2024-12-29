@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-29 01:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-26 04:48:43 +0000"
@@ -541,6 +547,7 @@
       "minecraft:witch": "2024-12-27 01:29:30 +0000",
       "minecraft:stray": "2024-12-26 06:06:22 +0000",
       "minecraft:zombie": "2024-12-26 04:59:30 +0000",
+      "minecraft:drowned": "2024-12-29 01:36:41 +0000",
       "minecraft:zombie_villager": "2024-12-26 05:37:12 +0000"
     },
     "done": false
@@ -1706,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-29 01:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 05:31:04 +0000"
@@ -2279,6 +2292,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-26 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-29 01:39:03 +0000"
     },
     "done": true
   },
