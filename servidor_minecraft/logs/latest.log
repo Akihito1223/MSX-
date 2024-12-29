@@ -11,3 +11,6 @@
 [29Dec2024 01:46:25.466] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@113c0d
 [29Dec2024 01:46:25.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jesua1223[/127.67.90.77:34631] logged in with entity id 59629 at (2581.8389071827055, 62.073264324665075, 2829.193163555991)
 [29Dec2024 01:46:25.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 joined the game
+[29Dec2024 02:08:04.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2234, y=47, z=2729} BlockPos{x=2234, y=47, z=2730}
+[29Dec2024 02:08:05.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2235, y=49, z=2728} BlockPos{x=2235, y=48, z=2728}
+[29Dec2024 02:08:28.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2228, y=46, z=2734} BlockPos{x=2227, y=48, z=2733}
