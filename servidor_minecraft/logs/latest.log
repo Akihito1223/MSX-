@@ -1,1 +1,4 @@
 [29Dec2024 00:21:22.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2240, y=53, z=2748} BlockPos{x=2241, y=55, z=2749}
+[29Dec2024 00:41:06.465] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3136a72f
+[29Dec2024 00:41:06.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arthur[/127.6.119.12:40267] logged in with entity id 30123 at (1620.9940307441582, 64.0, 1821.3377343297998)
+[29Dec2024 00:41:06.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur joined the game
