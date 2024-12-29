@@ -2,3 +2,5 @@
 [29Dec2024 00:41:06.465] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3136a72f
 [29Dec2024 00:41:06.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arthur[/127.6.119.12:40267] logged in with entity id 30123 at (1620.9940307441582, 64.0, 1821.3377343297998)
 [29Dec2024 00:41:06.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur joined the game
+[29Dec2024 01:07:44.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: arthur has made the advancement [Take Aim]
+[29Dec2024 01:08:01.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jesua1223 has made the advancement [Take Aim]

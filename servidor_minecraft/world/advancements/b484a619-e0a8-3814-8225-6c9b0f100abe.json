@@ -768,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-29 01:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 23:21:10 +0000"
@@ -995,6 +1001,7 @@
       "minecraft:taiga": "2024-12-26 19:36:05 +0000",
       "minecraft:frozen_river": "2024-12-23 02:43:08 +0000",
       "minecraft:windswept_hills": "2024-12-26 19:35:41 +0000",
+      "minecraft:beach": "2024-12-29 01:11:59 +0000",
       "minecraft:river": "2024-12-26 19:37:27 +0000",
       "minecraft:snowy_plains": "2024-12-23 02:42:47 +0000",
       "minecraft:stony_shore": "2024-12-26 05:39:53 +0000",
@@ -2249,6 +2256,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-26 05:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-29 01:07:44 +0000"
     },
     "done": true
   },
